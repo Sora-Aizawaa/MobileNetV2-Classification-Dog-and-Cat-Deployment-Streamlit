@@ -1,0 +1,10 @@
+metric,value
+test_accuracy,0.9914015531539917
+test_loss,0.026481611654162407
+error_rate,0.008598452278589854
+macro_precision,0.9914081445555095
+macro_recall,0.9914081445555095
+macro_f1,0.9914015477214101
+total_test_images,2326.0
+correct,2306.0
+incorrect,20.0
